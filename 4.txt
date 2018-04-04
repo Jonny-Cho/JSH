@@ -1,0 +1,30 @@
+<article id="work">
+    <!-- <img src="images/jap.jpg" alt="자폐" />
+    <img src="images/detail1.jpg" alt="디테일1" />
+    <img src="images/detail2.jpg" alt="디테일2" />
+    <img src="images/detail3.jpg" alt="디테일3" />
+    <img src="images/detail4.jpg" alt="디테일4" />
+    -->
+
+    <div class="youtubeWrap">
+        <p>
+            <iframe width="640" height="360" src="https://www.youtube.com/embed/lItRStefJCM" frameborder="0" allowfullscreen></iframe>
+        </p>
+    </div>
+    </br>
+    <div>
+        <p style="font-size:0.7rem;text-align:center;color:rgba(15,15,15,0.5);">(설치 전경 영상)</p></br>
+        <p style="font-size:0.85rem;color:rgba(15,15,15,0.5);text-align:right;">
+            전수현, <i>자폐의 나라</i>, 2016, 혼합재료, 가변설치
+        </p>
+    </div>    
+        <br/><br/>
+    <div>
+        <p style="font-size: 11pt; line-height: 22pt; letter-spacing: .3px;">
+            소멸되는 인간들에게 구원을 제시한다.
+            그것은 주체적으로 자신들이 선택하여 돌 (여기에서의 돌은 대부분의 설화에서 절대자에 반한 오만한 인간들이 벌을 받거나 핍박을 받는 돌)이 되는 것이다.
+            작가는 능동적인 자해행위 (눈과 귀와 입을 닫는 도피성) 로서 자신의 현 상황을 돌파해 가는 몸부림을 보여주고 싶었다.
+        </p>
+    </div>
+
+</article>

@@ -1,0 +1,7 @@
+<article id="work">
+    <article id="contact">
+        <img src="images/contact/mikesuhyun.png" alt="마이크와나" /><br/><br/>
+        <h2>Jeon Suhyun</h2><br/>
+        <p>suhyun00jeon@gmail.com</p>
+    </article>
+</article>

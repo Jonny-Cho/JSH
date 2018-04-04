@@ -1,0 +1,23 @@
+<article id="work">
+    <!-- <img src="images/jap.jpg" alt="자폐" />
+    <img src="images/detail1.jpg" alt="디테일1" />
+    <img src="images/detail2.jpg" alt="디테일2" />
+    <img src="images/detail3.jpg" alt="디테일3" />
+    <img src="images/detail4.jpg" alt="디테일4" />
+    -->
+
+    <div class="youtubeWrap">
+        <p>
+            <iframe width="640" height="360" src="https://www.youtube.com/embed/NuUF2CFgQ-Q" frameborder="0" allowfullscreen></iframe>
+        </p>
+    </div>
+    </br>
+    <div>
+        <p style="font-size:0.85rem;color:rgba(15,15,15,0.5);text-align:right;">
+            전수현, <i>애비와 딸</i>, 2014, 단채널 영상, 00:06:44
+        </p>
+    </div>    
+    
+    
+
+</article>

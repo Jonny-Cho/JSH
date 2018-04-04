@@ -1,0 +1,15 @@
+<li class="item">
+    <a href="index.php?id=1">풍경</a>
+</li>
+<li class="item">
+    <a href="index.php?id=2">애비와 딸</a>
+</li>
+<li class="item">
+    <a href="index.php?id=3">그래</a>
+</li>
+<li class="item">
+    <a href="index.php?id=4">자폐의 나라</a>
+</li>
+<li class="item">
+    <a href="index.php?id=5">프랑뱅</a>
+</li>
